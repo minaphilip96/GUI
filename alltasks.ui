@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>602</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>-10</y>
+      <width>791</width>
+      <height>571</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>google-classroom-logo.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QTextBrowser" name="textBrowser">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>0</y>
+      <width>741</width>
+      <height>451</height>
+     </rect>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Segoe UI'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;h1 style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:8pt; font-weight:300; color:#7627bb;&quot;&gt;Task 2&lt;/span&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:8pt; font-weight:300; font-style:italic; text-decoration: underline; color:#7627bb;&quot;&gt;: &lt;/span&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:8pt; font-weight:300; color:#7627bb;&quot;&gt;Variables&lt;/span&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:8pt; font-weight:300; font-style:italic; text-decoration: underline; color:#7627bb;&quot;&gt; &lt;/span&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:8pt; font-weight:300; color:#7627bb;&quot;&gt;and Conditions &lt;/span&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:8pt; font-weight:700; color:#7627bb;&quot;&gt;‏= &lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/1oQF4gMtFGtdIr81jv1E25yBrSKzvoIRK/view&quot;&gt;&lt;span style=&quot; font-size:xx-large; font-weight:700; text-decoration: underline; color:#0000ff; vertical-align:sub;&quot;&gt;Task 2.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 3: Lists &amp;amp; Strings‏=&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/1KXYDFCow4sUlGWSFa-yR8DT9FO1BZqDc/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 3.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 4: Loops ‏=&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/1KXYDFCow4sUlGWSFa-yR8DT9FO1BZqDc/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;https://drive.google.com/file/d/1BVXkHISaY3LWQfLvfp8j_fnKQ_L_Wmu0/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 4.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 5: Functions‏=&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/1t_MBedlNFUQLARj84drgZVqJdl7msycl/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 5.docx.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 6: Recap‏=&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/1cMEPEilByKdzTQJVC9Toejtd_ohQIMjc/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 6.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 7: Practice‏=&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/1kNPT0Vc3IaMDZcVG5AxX_V-00nznvvnw/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 7.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 8: More Practice‏=&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/121fs-B3axm3uQKqp004XyukD27bCNTu3/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 8.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 9: Recursion‏=&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/1StGW0VCOtZQ7dJLolmOD9-8UZS35VUIW/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 9.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 10: Snake‏= &lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/1upzopZ73yb0bPlKvYRXsjCPV3kCRGmZf/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 10.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 11: Git &amp;amp; Clean Code‏=&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/1oYW4p4xUCf6EDjW0e_ZeBkMa-1r7xbcw/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 11.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 12: OOP ‏= &lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/142Lm4SQwJI4cDsJx4JVl0HoN8-OTpyE8/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 12.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Google Sans','Roboto','Arial','sans-serif'; font-size:xx-large; color:#7627bb;&quot;&gt;Task 13: GUI‏=&lt;/span&gt;&lt;a href=&quot;https://drive.google.com/file/d/11EmBSxI1amkDbvttxjlfzpfvvnZ2RzYO/view&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;Task 13.pdf - Google Drive&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Roboto','Arial','sans-serif'; color:#5f6368;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>400</y>
+      <width>141</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Back</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
